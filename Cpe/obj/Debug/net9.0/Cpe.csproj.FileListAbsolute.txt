@@ -1,0 +1,14 @@
+D:\ESTRUCTURA\CPE\Cpe\bin\Debug\net9.0\Cpe.exe
+D:\ESTRUCTURA\CPE\Cpe\bin\Debug\net9.0\Cpe.dll
+D:\ESTRUCTURA\CPE\Cpe\bin\Debug\net9.0\Cpe.deps.json
+D:\ESTRUCTURA\CPE\Cpe\bin\Debug\net9.0\Cpe.runtimeconfig.json
+D:\ESTRUCTURA\CPE\Cpe\bin\Debug\net9.0\Cpe.pdb
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.AssemblyInfo.cs
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.dll
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\refint\Cpe.dll
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.pdb
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\Cpe.genruntimeconfig.cache
+D:\ESTRUCTURA\CPE\Cpe\obj\Debug\net9.0\ref\Cpe.dll
