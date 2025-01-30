@@ -1,0 +1,15 @@
+D:\ESTRUCTURA\CPE\CPE2\CPE2\bin\Debug\net9.0\CPE2.exe
+D:\ESTRUCTURA\CPE\CPE2\CPE2\bin\Debug\net9.0\CPE2.deps.json
+D:\ESTRUCTURA\CPE\CPE2\CPE2\bin\Debug\net9.0\CPE2.runtimeconfig.json
+D:\ESTRUCTURA\CPE\CPE2\CPE2\bin\Debug\net9.0\CPE2.dll
+D:\ESTRUCTURA\CPE\CPE2\CPE2\bin\Debug\net9.0\CPE2.pdb
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.AssemblyInfoInputs.cache
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.AssemblyInfo.cs
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.csproj.CoreCompileInputs.cache
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.sourcelink.json
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.dll
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\refint\CPE2.dll
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.pdb
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\CPE2.genruntimeconfig.cache
+D:\ESTRUCTURA\CPE\CPE2\CPE2\obj\Debug\net9.0\ref\CPE2.dll
